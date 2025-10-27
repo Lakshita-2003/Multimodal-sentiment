@@ -62,7 +62,7 @@ multimodal-sentiment/
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/ssatviksingh/multimodal-sentiment.git
+git clone https://github.com/Lakshita-2003/multimodal-sentiment.git
 cd multimodal-sentiment
 
 2️⃣ Create and activate a virtual environment
